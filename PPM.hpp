@@ -4,7 +4,6 @@
 #include <string>
 #include <fstream>
 #include <sstream>
-#include "PGM.hpp"
 using namespace std;
 
 // Dados da PPM
