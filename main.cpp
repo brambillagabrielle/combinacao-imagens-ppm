@@ -3,7 +3,7 @@ using namespace std;
 
 #include <time.h>
 
-#include "transformacoes.hpp"
+#include "PPM.hpp"
 
 int main(void)
 {
